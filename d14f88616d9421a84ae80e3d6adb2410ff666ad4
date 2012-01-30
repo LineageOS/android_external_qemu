@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAP3///xg\u003d",
+        "filename": "Makefile.android",
+        "patchSetId": 1
+      },
+      "lineNbr": 76,
+      "author": {
+        "id": 2137
+      },
+      "writtenOn": "2012-01-30T01:34:02Z",
+      "side": 1,
+      "message": "This replaces 10.5 with 10.6 instead of adding 10.6",
+      "revId": "d14f88616d9421a84ae80e3d6adb2410ff666ad4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
