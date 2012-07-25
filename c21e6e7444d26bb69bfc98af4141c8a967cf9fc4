@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAVX//9uI\u003d",
+        "filename": "Makefile.android",
+        "patchSetId": 1
+      },
+      "lineNbr": 208,
+      "author": {
+        "id": 3257
+      },
+      "writtenOn": "2012-07-25T01:38:28Z",
+      "side": 1,
+      "message": "i? :)",
+      "revId": "c21e6e7444d26bb69bfc98af4141c8a967cf9fc4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAVX//9uE\u003d",
+        "filename": "Makefile.android",
+        "patchSetId": 1
+      },
+      "lineNbr": 209,
+      "author": {
+        "id": 3257
+      },
+      "writtenOn": "2012-07-25T01:38:28Z",
+      "side": 1,
+      "message": "Do not need this comment. Rather change the \"# Lion/XCode4 needs to be explicitly told the dynamic library\" to say eg. \"# Lion and above needs to be explicitly told the dynamic library\"",
+      "revId": "c21e6e7444d26bb69bfc98af4141c8a967cf9fc4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
